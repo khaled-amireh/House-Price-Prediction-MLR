@@ -89,7 +89,7 @@ Multiple_Linear_Regression_Project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/House-Price-Prediction-MLR.git
+git clone https://github.com/khaled-amireh/House-Price-Prediction-MLR.git
 ```
 
 Navigate to the project directory:
