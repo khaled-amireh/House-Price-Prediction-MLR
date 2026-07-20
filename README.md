@@ -79,7 +79,6 @@ Multiple_Linear_Regression_Project/
 ├── Multiple_Linear_Regression_Project.ipynb
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ---
@@ -123,7 +122,6 @@ After preprocessing the data and training the model, it achieved an **R² Score 
 - Tune Hyperparameters
 - Compare with other Regression Algorithms
 - Deploy the model as a web application
-
 ---
 
 # Author
