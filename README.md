@@ -19,7 +19,6 @@ The project includes:
 - Model training
 - Prediction
 - Model evaluation
-
 ---
 
 # Dataset
