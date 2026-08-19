@@ -1,4 +1,4 @@
-# House Price Prediction using Multiple Linear Regression
+# House Price Prediction
 
 A Machine Learning project that predicts house prices using the Ames Housing Dataset and Multiple Linear Regression.
 
