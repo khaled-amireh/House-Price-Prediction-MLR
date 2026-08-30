@@ -117,7 +117,6 @@ After preprocessing the data and training the model, it achieved an **R² Score 
 # Future Improvements
 
 - Apply Feature Engineering
-- Perform Cross Validation
 
 ---
 
