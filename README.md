@@ -119,7 +119,6 @@ After preprocessing the data and training the model, it achieved an **R² Score 
 - Apply Feature Engineering
 - Perform Cross Validation
 - Tune Hyperparameters
-- Compare with other Regression Algorithms
 
 ---
 
