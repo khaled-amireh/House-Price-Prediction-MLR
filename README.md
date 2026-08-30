@@ -120,7 +120,7 @@ After preprocessing the data and training the model, it achieved an **R² Score 
 - Perform Cross Validation
 - Tune Hyperparameters
 - Compare with other Regression Algorithms
-- Deploy the model as a web application
+
 ---
 
 # Author
