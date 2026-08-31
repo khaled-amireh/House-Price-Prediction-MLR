@@ -96,10 +96,6 @@ Navigate to the project directory:
 cd House-Price-Prediction-MLR
 ```
 
-Install the required libraries:
-
-```bash
-
 ---
 
 # Results
