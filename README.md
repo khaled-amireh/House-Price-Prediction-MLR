@@ -99,9 +99,6 @@ cd House-Price-Prediction-MLR
 Install the required libraries:
 
 ```bash
-pip install -r requirements.txt
-```
-
 
 ---
 
