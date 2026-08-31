@@ -69,13 +69,6 @@ The dataset contains detailed information about residential properties, includin
 
 ---
 
-# Project Structure
-
-ext
-Multiple_Linear_Regression_Project/
-
----
-
 # Results
 
 The Multiple Linear Regression model successfully learned the relationship between housing features and house prices.
