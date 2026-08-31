@@ -73,8 +73,7 @@ The dataset contains detailed information about residential properties, includin
 
 ext
 Multiple_Linear_Regression_Project/
-│
-├── AmesHousing.csv
+
 ---
 
 # Results
