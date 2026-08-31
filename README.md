@@ -76,8 +76,6 @@ Multiple_Linear_Regression_Project/
 │
 ├── AmesHousing.csv
 ├── Multiple_Linear_Regression_Project.ipynb
-├── README.md
-├──
 ---
 
 # Results
