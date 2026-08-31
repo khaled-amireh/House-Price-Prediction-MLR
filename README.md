@@ -71,28 +71,13 @@ The dataset contains detailed information about residential properties, includin
 
 # Project Structure
 
-```text
+ext
 Multiple_Linear_Regression_Project/
 │
 ├── AmesHousing.csv
 ├── Multiple_Linear_Regression_Project.ipynb
 ├── README.md
-├── requirements.txt
-```
-
----
-
-# How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/khaled-amireh/House-Price-Prediction-MLR.git
-```
-
-Navigate to the project directory:
-
-
+├──
 ---
 
 # Results
