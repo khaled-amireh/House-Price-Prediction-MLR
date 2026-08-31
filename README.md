@@ -102,7 +102,6 @@ Install the required libraries:
 pip install -r requirements.txt
 ```
 
-Run the Jupyter Notebook.
 
 ---
 
