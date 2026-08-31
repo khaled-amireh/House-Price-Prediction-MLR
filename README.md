@@ -92,9 +92,6 @@ git clone https://github.com/khaled-amireh/House-Price-Prediction-MLR.git
 
 Navigate to the project directory:
 
-```bash
-cd House-Price-Prediction-MLR
-```
 
 ---
 
