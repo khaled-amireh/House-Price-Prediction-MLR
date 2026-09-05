@@ -1,5 +1,7 @@
 # House Price Prediction
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 A Machine Learning project that predicts house prices using the Ames Housing Dataset and Multiple Linear Regression.
 
 ---
