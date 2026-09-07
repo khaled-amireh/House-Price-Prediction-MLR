@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project demonstrates the complete workflow of building a **Multiple Linear Regression** model to predict house prices from structural and neighborhood features.
 
