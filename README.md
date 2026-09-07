@@ -31,9 +31,9 @@ This project demonstrates the complete workflow of building a **Multiple Linear 
 The pipeline covers the full modeling lifecycle:
 
 -  Data preprocessing
-- ✅ Data validation
-- 🕳️ Handling missing values
-- 🎯 Feature selection
+-  Data validation
+-  Handling missing values
+-  Feature selection
 - 🔢 One-Hot Encoding
 - ✂️ Train/Test split
 - 🧠 Model training
