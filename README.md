@@ -80,7 +80,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Category | Tools |
 |---|---|
@@ -92,7 +92,7 @@ flowchart LR
 
 ---
 
-## 📏 Model Performance
+##  Model Performance
 
 | Metric | Value | What It Means |
 |---|---:|---|
@@ -103,7 +103,7 @@ flowchart LR
 
 ---
 
-## ✅ Results
+##  Results
 
 The Multiple Linear Regression model successfully learned the relationship between housing features and sale prices.
 
@@ -111,7 +111,7 @@ After preprocessing the data and training the model, it achieved an **R² Score 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 house-price-prediction/
@@ -126,7 +126,7 @@ house-price-prediction/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repository
@@ -142,7 +142,7 @@ jupyter notebook notebooks/house_price_prediction.ipynb
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Experiment with regularized models (Ridge, Lasso) to reduce overfitting
 - Try tree-based models (Random Forest, XGBoost) for potentially higher accuracy
@@ -152,8 +152,6 @@ jupyter notebook notebooks/house_price_prediction.ipynb
 
 ---
 
-## 👤 Author
+##  Author
 
 **Khaled Amireh**
-AI Student | Machine Learning
-[GitHub](https://github.com/khaled-amireh)
