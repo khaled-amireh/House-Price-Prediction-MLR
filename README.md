@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction
+#  House Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Regression-F7931E?logo=scikit-learn&logoColor=white)
