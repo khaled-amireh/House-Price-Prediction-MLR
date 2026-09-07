@@ -37,12 +37,12 @@ The pipeline covers the full modeling lifecycle:
 -  One-Hot Encoding
 -  Train/Test split
 -  Model training
-- 🔮 Prediction
-- 📏 Model evaluation
+-  Prediction
+-  Model evaluation
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Dataset:** Ames Housing Dataset
 
@@ -52,7 +52,7 @@ The dataset contains detailed information about residential properties in Ames, 
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```mermaid
 flowchart LR
