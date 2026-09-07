@@ -34,9 +34,9 @@ The pipeline covers the full modeling lifecycle:
 -  Data validation
 -  Handling missing values
 -  Feature selection
-- 🔢 One-Hot Encoding
-- ✂️ Train/Test split
-- 🧠 Model training
+-  One-Hot Encoding
+-  Train/Test split
+-  Model training
 - 🔮 Prediction
 - 📏 Model evaluation
 
